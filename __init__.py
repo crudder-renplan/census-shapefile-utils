@@ -5,6 +5,7 @@ CSV_DIR = 'generated_csv'
 GEO_TYPES_DICT = {
     'cd': 'Congressional Districts',
     'county': 'Counties',
+    'tabblock': 'Census Blocks',
     'elsd': 'Elementary School Districts',
     'place': 'Places',
     'scsd': 'Secondary School Districts',
